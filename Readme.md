@@ -41,7 +41,7 @@ For testing purposes, the app includes a sample dataset from the company CronAi,
     ```
 2. Install required packages:
     ```bash
-    pip install -r requirements.txt
+    pip install -r app/requirements.txt
     ```
 3. Run the app:
     ```bash
