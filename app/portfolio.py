@@ -2,6 +2,10 @@ import pandas as pd
 import chromadb
 import uuid
 
+client = chromadb.Client(
+    settings={"persist_directory": None}  # This will force in-memory mode
+)
+
 class Portfolio:
     def __init__(self, file_path = "app/Resource/my_portfolio.csv"):
         self.file_path = file_path
