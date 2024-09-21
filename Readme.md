@@ -19,6 +19,8 @@ Service-based companies often need to reach out to multiple organizations for co
 - **Email Generation**: Submit the URL, and the app will generate a cold email tailored to the job post.
 - **Customization**: Users can further curate the generated email before sending it.
 
+<img src="app/Resource/ezgif-4-7686056528.gif">
+
 ## Sample Dataset
 For testing purposes, the app includes a sample dataset from the company CronAi, featuring its tech stack and portfolio links.
 
